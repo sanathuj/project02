@@ -4,5 +4,5 @@ abstract class Person
 {
 	abstract public function greet();
 }
-
+//test
 ?>
